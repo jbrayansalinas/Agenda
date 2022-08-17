@@ -1,0 +1,21 @@
+
+s
+Capp/src/androidTest/java/red/lisgar/db/ExampleInstrumentedTest.java,d\8\d84e8ff9c8a9f3651f6c19d84437e4a43f6b2e71
+v
+Fapp/src/main/java/red/lisgar/db/adaptadores/ListaContactosAdapter.java,d\5\d526a39c1c703309bd997e154e548582c8e018c2
+h
+8app/src/main/java/red/lisgar/db/entidades/Contactos.java,3\6\368e6266af471f5072e1d970b7b108ad54bad118
+`
+0app/src/main/java/red/lisgar/db/VerActivity.java,3\d\3d82b562aa4d798370c350a8ca8bdec51a19f4cc
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+c
+3app/src/main/java/red/lisgar/db/Nuevo_activity.java,4\1\41f75f528e65d7dd7cb2e48392b04a466dd591d9
+e
+5app/src/main/java/red/lisgar/db/dbjb/DbContactos.java,4\a\4af953b1896ccf4f5f3b1a6387fc77ecbee5db5f
+b
+2app/src/main/java/red/lisgar/db/dbjb/DbHelper.java,3\0\30df0770bf08e3947c4aa4e17c1d7e5680f28733
+c
+3app/src/main/java/red/lisgar/db/EditarActivity.java,9\e\9e9eb3de43901a4e8cf2f80b93aac79c7c99813d
+j
+:app/src/main/java/red/lisgar/db/MainContactosActivity.java,7\2\720902a706bbdaade4e60d73ade1f5aa7ec865ce

@@ -1,0 +1,19 @@
+
+’
+java:S1319/"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Œäíşùÿÿÿÿ8µÀ’ 0
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»æÙ ùÿÿÿÿ8·À’ 0
+r	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í™Å“úÿÿÿÿ8¹À’ 0
+h
+java:S2095H"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(ÙÖöøÿÿÿÿ8èÀ’ 0
+h
+java:S2095t"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(ÙÖöøÿÿÿÿ8éÀ’ 0
+h
+java:S2095_"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(ÙÖöøÿÿÿÿ8éÀ’ 0
+h
+java:S2095"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(ÙÖöøÿÿÿÿ8éÀ’ 0
+h
+java:S20950"FUse try-with-resources or close this "DbHelper" in a "finally" clause.(ÙÖöøÿÿÿÿ8èÀ’ 0
+ˆ
+java:S4165g"fRemove this useless assignment; "correcto" already holds the assigned value along all execution paths.(†Ü­Ãıÿÿÿÿ8êÀ’ 0
+ˆ
+java:S4165|"fRemove this useless assignment; "correcto" already holds the assigned value along all execution paths.(†Ü­Ãıÿÿÿÿ8êÀ’ 0

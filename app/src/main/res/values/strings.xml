@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">db</string>
+    <string name="btn_crar">Crear DB</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_correo">Correo electronico:</string>
+    <string name="btn_guradar">Guardar</string>
+    <string name="menu_nuevo">Nuevo Registro</string>
+
+
+</resources>
